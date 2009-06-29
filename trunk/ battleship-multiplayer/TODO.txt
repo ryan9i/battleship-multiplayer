@@ -1,0 +1,7 @@
+This is not done
+-make game
+-stuff
+
+All this is done
+-make data send and recieve
+-now merge the ability to host or be client and have the user select whether s/he wants to be either
